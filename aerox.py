@@ -176,8 +176,7 @@ if __name__ == "__main__":
     asyncio.run(main())
 
 """
-: ! Aegis !
-    + Discord: itsfizys
-    + Community: https://discord.gg/aerox (AeroX Development )
-    + for any queries reach out Community or DM me.
+: ! N!JAD !
+    + Discord: nizu.dll
+    + Community: https://discord.gg/ruinn
 """
