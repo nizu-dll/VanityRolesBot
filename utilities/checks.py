@@ -34,8 +34,7 @@ async def role_priv(ctx, role: discord.Role):
     return None
 
 """
-: ! Aegis !
-    + Discord: itsfizys
-    + Community: https://discord.gg/aerox (AeroX Development )
-    + for any queries reach out Community or DM me.
+: ! N!JAD !
+    + Discord: nizu.dll
+    + Community: https://discord.gg/ruinn
 """
