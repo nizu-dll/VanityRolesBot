@@ -1,9 +1,9 @@
-# AeroX VanityRoles Bot
+# NiEl VanityRoles Bot
 
 A Discord bot built with **discord.py** that monitors member custom statuses for a configured vanity text and automatically assigns roles and sends a message when a user adds it to their status. All responses use Discord's **Components V2** (containers, separators, text displays).
 
-**Developer:** itsfizys  
-**Support Server:** [AeroX Development](https://discord.gg/aerox)
+**Developer:** nizu.dll  
+**Support Server:** (https://discord.gg/ruinn)
 
 ---
 
